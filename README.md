@@ -13,8 +13,6 @@ The dataset used for this project includes the following features:
 
 - **Size (in square feet)**
 - **Number of bedrooms**
-- **Number of bathrooms**
-- **Number of floors**
 - **Year built**
 
 The target variable is the **price** of the house.
